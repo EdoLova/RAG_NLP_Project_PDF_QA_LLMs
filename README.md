@@ -39,6 +39,6 @@ python PDF_QA_with_LLMs.py
 4. The results will be saved as `rag_report_Edoardo_Lovato.json`.
 
 ## Author
-Edoardo Lovato
-Università di Padova – NLP (Natural Language Processing)
-Academic Year 2024–2025
+- Edoardo Lovato
+- Università di Padova – NLP (Natural Language Processing)
+- Academic Year 2024–2025
